@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Moraes</h1>
 <h3 align="center">Doctoral Student in Statistics - USP/UFSCar | data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoomoraes&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoomoraes" /> </p>
 
 - 🌱 I’m currently learning **computer vision**
 
@@ -22,3 +21,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoomoraes&show_icons=true&locale=en&layout=compact" alt="fernandoomoraes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoomoraes&" alt="fernandoomoraes" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoomoraes&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoomoraes" /> </p>
+
